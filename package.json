@@ -1,0 +1,22 @@
+{
+	"name": "expresstypescriptserver",
+	"version": "1.0.0",
+	"description": "This is basically a learning-based project. In it, I will try to build a server using Express.js with TypeScript, and the step-by-step documentation is provided below.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "npx tsx watch ./src/server.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^5.2.1"
+	},
+	"devDependencies": {
+		"@types/express": "^5.0.6",
+		"@types/node": "^25.6.0",
+		"tsx": "^4.21.0",
+		"typescript": "^6.0.3"
+	}
+}
