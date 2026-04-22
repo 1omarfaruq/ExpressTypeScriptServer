@@ -2,8 +2,6 @@
 
 This is basically a learning-based project. In it, I will try to build a server using Express.js with TypeScript, and the step-by-step documentation is provided below.
 
-{ "schemaVersion": 1, "label": "node", "message": "sweet world", "color": "orange" }
-
 ## Installation
 
 Steps to install and set up the project.
